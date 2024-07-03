@@ -2,8 +2,6 @@
 
 Welcome to the Coffee Shop Website repository! This project is a simple yet elegant website for a coffee shop, created using HTML and CSS. It showcases the shop's menu, ambiance, and contact information, providing a user-friendly experience for potential customers.
 
-![Coffee Shop](./assets/images/coffee-shop.png)
-
 ## Table of Contents
 
 - [About](#about)
