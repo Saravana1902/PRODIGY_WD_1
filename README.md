@@ -5,7 +5,7 @@ Welcome to the Coffee Shop Website repository! This project is a simple yet eleg
 ## Table of Contents
 
 - [About](#about)
-- [Products](#products)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
